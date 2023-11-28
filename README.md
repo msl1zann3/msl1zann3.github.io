@@ -1,3 +1,2 @@
 # msl1zann3.github.io
 Macalino, Feliz Anne N.
-theme: jekyll-theme-time-machine
