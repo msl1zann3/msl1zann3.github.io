@@ -1,7 +1,7 @@
 # The Pink History
-: by Macalino, Feliz Anne N. :
+<div align="center">by Macalino, Feliz Anne N.</div>
 
-**‎♡₊˚ 🎀 msl1zann3 ・₊✧**
+<div align="center">♡₊˚ 🎀 **𝐦𝐬𝐥𝟏𝐳𝐚𝐧𝐧𝟑** ・₊✧</div> 
 
 ![pink](https://i.pinimg.com/564x/1e/37/9f/1e379fbd942f4ebab80fd2a4a4fd3d0b.jpg)
 
